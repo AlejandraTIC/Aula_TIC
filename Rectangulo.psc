@@ -15,4 +15,5 @@ Algoritmo Rectangulo
         Escribir ""
     Fin Para
     Escribir ""
+	Escribir "Estoy introduciendo un cambio"
 FinAlgoritmo

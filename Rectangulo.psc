@@ -1,5 +1,6 @@
 Algoritmo Rectangulo
-    Escribir "Vamos a crear un rect·ngulo"
+    Escribir "Vamos a crear un rect√°ngulo"
+jkhjhjkhjkhjhkjhjkhlk
     Repetir
         Escribir "Teclea la altura (entre 4 y 7):"
         Leer altura    
